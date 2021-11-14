@@ -1,0 +1,8 @@
+G = input('Введите число n: ')
+GG = int(G + G)
+GGG = int(G + G + G)
+G = int(G)
+# print('n =', G)
+# print('nn =', GG)
+# print('nnn =', GGG)
+print('Сумма n + nn + nnn =', G + GG + GGG)
